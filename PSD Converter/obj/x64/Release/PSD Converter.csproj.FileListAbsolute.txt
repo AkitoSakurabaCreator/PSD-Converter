@@ -1,0 +1,15 @@
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\bin\x64\Release\Magick.Native-Q8-x64.dll
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\bin\x64\Release\PSD Converter.exe.config
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\bin\x64\Release\PSD Converter.exe
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\bin\x64\Release\PSD Converter.pdb
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\bin\x64\Release\Magick.NET-Q8-x64.dll
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\bin\x64\Release\Magick.NET.Core.dll
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD_Converter.Form1.resources
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD_Converter.Properties.Resources.resources
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.csproj.GenerateResource.cache
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.csproj.CoreCompileInputs.cache
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.csproj.CopyComplete
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.exe
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.pdb
+C:\Users\muramoto\source\repos\PSD Converter\PSD Converter\obj\x64\Release\PSD Converter.csproj.AssemblyReference.cache
